@@ -6,3 +6,4 @@ Repository of the tasks done in ALX
 2. Shell Permissions
 3. Shell Redirections
 4. Shell Variables and Expansion 
+5. README.md
